@@ -12,7 +12,7 @@ AI-powered malaria detection and analysis platform
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/thebani-codebase/ai_est_projectmalaria_insight-.git
+git clone https://github.com/Chhvai0101/ai_est_projectmalaria_insight-.git
 cd malaria-insight-ai
 ```
 
